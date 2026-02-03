@@ -59,7 +59,7 @@ Sistema web desarrollado en PHP y MySQL para la gestión de una pastelería real
 Incluye autenticación, pedidos personalizados, panel administrativo y control de stock.
 
 👉 Repositorio:  
-[Pastelería El Ángel](https://github.com/Twoxn/Pasteleria-el-Angel)
+[Pastelería El Ángel]([https://github.com/Twoxn/Pasteleria-el-Angel](https://github.com/Twxxn/Pasteleria-el-Angel.git))
 
 ---
 
