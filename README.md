@@ -1,5 +1,5 @@
 
-[![GitHub followers](https://img.shields.io/github/followers/Twoxn?style=social)](https://github.com/Twoxn?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Twxxn?style=social)](https://github.com/Twoxn?tab=followers)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
