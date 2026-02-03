@@ -63,19 +63,20 @@ Incluye autenticación, pedidos personalizados, panel administrativo y control d
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Twoxn&show_icons=true&theme=gruvbox"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Twoxn&show_icons=true&theme=gruvbox&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twoxn&layout=compact&theme=gruvbox"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twoxn&layout=compact&theme=gruvbox&hide_border=true" />
 </p>
+
 
 ---
 
 ### 📫 Contact
 
-- 📧 Email: *(puedes agregarlo después)*
-- 💼 LinkedIn: *(opcional, luego lo armamos)*
+- 📧 Email: **
+- 💼 LinkedIn: **
 
 ---
 
