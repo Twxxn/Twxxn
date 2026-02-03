@@ -80,6 +80,15 @@ Incluye autenticación, pedidos personalizados, panel administrativo y control d
 <a href="https://instagram.com">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style-for-the-badge&logo-Instagram&logoColor=white">
 </a>
+<a href="https://www.tiktok.com/" >
+<img src="https://img.shields.io/badge/TikTok-%23000000.svg?style-for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
+</a>
+<a href="https://www.twitch.tv/" >
+<img src="https://img.shields.io/badge/Twitch-9347FF?style-for-the-badge&logo-twitch&logoColor-white" alt="Twitch">
+</a>
+<a href="https://www.youtube.com/e">
+<img src="https://img.shields.io/badge/YouTube-%23FF0008.svg?style-for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
+</a>
 
 ---
 
