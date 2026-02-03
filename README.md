@@ -8,12 +8,13 @@
 
 ### 👨‍💻 About me
 
-- 🎓 Computer Systems Engineering student (7th semester)
+- 🎓 Computer Systems Engineering student (9th semester)
+- 👨‍💻 Java & Python
 - 💻 I work mainly with **PHP & MySQL**
 - 🎨 I enjoy **Frontend development** (HTML, CSS, JavaScript)
-- 🐍 Currently learning **Python**
 - 🌱 Interested in growing as a **Full Stack developer**
 - 🚀 Building academic and personal projects to gain real experience
+
 
 ---
 
