@@ -65,13 +65,9 @@ Incluye autenticación, pedidos personalizados, panel administrativo y control d
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Twoxn&show_icons=true&theme=gruvbox&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twoxn&layout=compact&theme=gruvbox&hide_border=true" />
-</p>
+[![](https://github-readme-stats.vercel.app/api?gsername=Twxxn-48&show icons=true&theme=tokyonight&hide border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Twxxn-48&theme-material-palenight)](https://github.com/Elanza-48)
+</div>
 
 
 ---
