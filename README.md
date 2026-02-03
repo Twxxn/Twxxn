@@ -1,8 +1,7 @@
-### Hi there 👋 I'm Antonio
 
 [![GitHub followers](https://img.shields.io/github/followers/Twoxn?style=social)](https://github.com/Twoxn?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=28&lines=Hey!+I'm+Antonio+Izamael+👋;PHP+%26+MySQL+Developer;Learning+Python+%26+Backend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=28&lines=Hey!+I'm+Antonio+Izamael+👋;PHP+%26+MySQL+Developer;Java+Python+%26+Frontend+Backend)](https://git.io/typing-svg)
 
 ---
 
