@@ -91,4 +91,4 @@ Incluye autenticación, pedidos personalizados, panel administrativo y control d
 
 ---
 
-⚡ *Always learning, always improving.*
+*𝑾𝒉𝒆𝒏 𝒍𝒊𝒇𝒆 𝒑𝒖𝒔𝒉𝒆𝒔 𝒎𝒆... 𝑰 𝒑𝒖𝒔𝒉 𝒉𝒂𝒓𝒅𝒆𝒓. 🥀*
