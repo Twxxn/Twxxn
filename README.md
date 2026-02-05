@@ -62,30 +62,32 @@ Incluye autenticación, pedidos personalizados, panel administrativo y control d
 
 ---
 
-<!--### 📊 GitHub Stats
+<!--
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Twxxn-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Twxxn-48&theme=tokyonight&hide_border=true" />
-</p> -->
+</p> 
+-->
 
 
 
 ---
 
 ### 📫 Contact
-<a href="https://instagram.com">
+<a href="https://instagram.com/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style-for-the-badge&logo-Instagram&logoColor=white">
 </a>
 <a href="https://www.tiktok.com/" >
 <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style-for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
 </a>
-<a href="https://www.twitch.tv/" >
+<a href="https://www.twitch.tv/txxin" >
 <img src="https://img.shields.io/badge/Twitch-9347FF?style-for-the-badge&logo-twitch&logoColor-white" alt="Twitch">
 </a>
-<a href="https://www.youtube.com/e">
+<a href="https://www.youtube.com/">
 <img src="https://img.shields.io/badge/YouTube-%23FF0008.svg?style-for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
 
